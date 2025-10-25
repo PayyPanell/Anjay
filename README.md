@@ -1,2 +1,0 @@
-# Anjay
-Snajaj
